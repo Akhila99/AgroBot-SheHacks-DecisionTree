@@ -3,19 +3,21 @@
 # Agrobot
 Agriculture is a vast industry being handled by farmers. The increasing developments across various fields of technology makes it important to introduce the benefits of the same in farming as well. Developing a chatbot will focus on the issue of excessive growth of weeds in farms and solutions to them will be contained within a dataset. The chatbot will be designed considering the needs and accessibility of the farmers by including regional languages, guidelines, FAQs. 
 
+
 # Prerequisites
-  Python
-  comtypes==1.1.7
-  joblib==0.14.1
-  nltk==3.4.5
-  numpy==1.18.1
-  pyttsx3==2.81
-  pywin32==227
-  scikit-learn==0.22.1
-  scipy==1.4.1
-  six==1.14.0
-  sklearn==0.0
-  googletrans==3.0.0
+Python
+comtypes==1.1.7
+joblib==0.14.1
+nltk==3.4.5
+numpy==1.18.1
+pyttsx3==2.81
+pywin32==227
+scikit-learn==0.22.1
+scipy==1.4.1
+six==1.14.0
+sklearn==0.0
+googletrans==3.0.0
+
   
   # Installing
 1)	Either install the packages separately by using the following command:
