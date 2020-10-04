@@ -35,6 +35,7 @@ googletrans==3.0.0
 3)	Unzip the code folder and run the gui.py file 
 Use the following command to run the gui file:
 python gui.py
+4) Refer Translations for the bot file for reference translations that can be used for querying through the bot.
 
 # Techstack used: 
 1)	Tkinter- frontend of the bot
