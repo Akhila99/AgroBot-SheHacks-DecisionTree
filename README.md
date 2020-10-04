@@ -37,8 +37,7 @@ python gui.py
 3)	Googletrans- language detection and translation
 
 # Architecture
-
-
+![13](https://user-images.githubusercontent.com/45993890/95009135-3c566a00-063d-11eb-8b02-b2c77df6784b.JPG)
 
 # Contributors:
 Team Name: Decision Tree
