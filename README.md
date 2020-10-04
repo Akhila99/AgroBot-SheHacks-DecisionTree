@@ -16,6 +16,16 @@ Agriculture is a vast industry being handled by farmers. The increasing developm
   six==1.14.0
   sklearn==0.0
   googletrans==3.0.0
+  
+  # Installing
+1)	Either install the packages separately by using the following command:
+  # 
+    pip install nltk
+    pip install numpy
+2)  Or use the following command to install the dependencies at a time after downloading the zip file and extracting it.
+   #
+    pip install -r requirements.txt
+
 
 # Steps to run the code
 1)	Install Python and the necessary packages specified under prerequisites (requirements.txt)
